@@ -2,13 +2,10 @@ import io
 import streamlit as st
 import numpy as np
 import pandas as pd
-from typing import List
-from pydantic import BaseModel
 import time
 from PIL import Image
 import pickle 
 import random
-import math
 import xgboost as xgb
 
 st.markdown("""<style>
