@@ -6,7 +6,6 @@ import time
 from PIL import Image
 import pickle 
 import random
-import xgboost as xgb
 
 st.markdown("""<style>
     .stProgress .st-bk {
