@@ -53,7 +53,8 @@ def load_progress():
 
 def load_model():
     pickle_in = open('model.pkl', 'rb') 
-    return pickle.load(pickle_in) 
+    # return pickle.load(pickle_in) 
+    return ''
 model = load_model()
 
 # def print_predictions(preds):
