@@ -1,1 +1,1 @@
-cv2==4.7.0
+opencv-python
