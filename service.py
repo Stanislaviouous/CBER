@@ -1,11 +1,6 @@
-import io
 import streamlit as st
 import numpy as np
-import pandas as pd
-import time
 from PIL import Image
-import pickle 
-import random
 import cv2
 
 st.markdown("""<style>
